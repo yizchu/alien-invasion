@@ -9,7 +9,6 @@ A fast-paced, open-source 2D arcade shooter where the player defends Earth from 
   - [Installation](#installation)
   - [Run the Game](#run-the-game)
 - [Gameplay & Controls](#gameplay--controls)
-- [Development](#development)
 
 ## Features
 - Fast-paced arcade-style gameplay with progressive enemy waves
