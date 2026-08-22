@@ -40,10 +40,4 @@ Objective:
 - Survive waves of aliens, earn points by destroying enemies, and try to beat your high score.
 - Collect power-ups for temporary advantages (e.g., rapid fire, shields).
 
-```
-## Development
-- Keep game logic modular: separate player, enemy, projectile, and UI code.
-- Add new enemy behavior by creating a new enemy class and registering it into the wave spawner.
-- Improve performance by batching sprite draws and limiting active particle effects.
-
 Happy hacking — shoot some aliens!
