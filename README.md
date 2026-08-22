@@ -5,7 +5,6 @@ A fast-paced, open-source 2D arcade shooter where the player defends Earth from 
 ## Table of Contents
 - [Features](#features)
 - [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
   - [Installation](#installation)
   - [Run the Game](#run-the-game)
 - [Gameplay & Controls](#gameplay--controls)
@@ -15,17 +14,8 @@ A fast-paced, open-source 2D arcade shooter where the player defends Earth from 
 - Multiple enemy types
 - Score, lives, and basic power-ups
 - Easy-to-read codebase intended for learning and extension
-- Configurable settings for difficulty and controls
 
 ## Getting Started
-
-### Prerequisites
-This project is intentionally generic. Replace these instructions with the exact commands for your project's tech stack.
-
-Common examples:
-- For Python/Pygame: Python 3.8+ and pip
-- For HTML5/Phaser: Node.js and a static server (or host on GitHub Pages)
-- For Unity: Unity Editor (version X.Y) and Unity Hub
 
 ### Installation
 Clone the repository:
@@ -34,40 +24,11 @@ git clone https://github.com/yizchu/alien-invasion.git
 cd alien-invasion
 ```
 
-Install dependencies (examples — choose the one that matches your project):
-
-Python / Pygame example:
-```bash
-python -m venv venv
-source venv/bin/activate   # macOS / Linux
-venv\Scripts\activate      # Windows
-pip install -r requirements.txt
-```
-
-JavaScript / Phaser example:
-```bash
-npm install
-```
-
-Unity:
-- Open the project in Unity Hub and let the editor import assets and packages.
-
 ### Run the Game
 Python / Pygame:
 ```bash
 python main.py
 ```
-
-JavaScript (dev server):
-```bash
-npm run start
-# or
-npx http-server ./ -p 8080
-# then open http://localhost:8080 in your browser
-```
-
-Unity:
-- Press Play in the Unity Editor.
 
 ## Gameplay & Controls
 Default controls (update to match actual controls in your project):
