@@ -27,7 +27,7 @@ cd alien-invasion
 ### Run the Game
 Python / Pygame:
 ```bash
-python main.py
+python alien_invasion.py
 ```
 
 ## Gameplay & Controls
@@ -45,13 +45,5 @@ Objective:
 - Keep game logic modular: separate player, enemy, projectile, and UI code.
 - Add new enemy behavior by creating a new enemy class and registering it into the wave spawner.
 - Improve performance by batching sprite draws and limiting active particle effects.
-
-Suggested workflow:
-1. Create a feature branch: `git checkout -b feat/new-enemy`
-2. Implement and test locally
-3. Open a Pull Request with a clear description and screenshots/GIFs of changes
-4. Request review and merge when approved
-
-For questions, suggestions, or contributions, open an issue or contact the repository owner: yizchu.
 
 Happy hacking — shoot some aliens!
