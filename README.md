@@ -12,7 +12,7 @@ A fast-paced, open-source 2D arcade shooter where the player defends Earth from 
 
 ## Features
 - Fast-paced arcade-style gameplay with progressive enemy waves
-- Multiple enemy types and simple AI patterns
+- Multiple enemy types
 - Score, lives, and basic power-ups
 - Easy-to-read codebase intended for learning and extension
 - Configurable settings for difficulty and controls
